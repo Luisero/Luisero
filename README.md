@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @LuisMoura
-- 👀 I’m interested in ... web development;
-- 🌱 I’m currently learning ... Html, Css and Javascript;
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Luisero/Luisero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
