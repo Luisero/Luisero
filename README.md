@@ -3,7 +3,8 @@
 Luisero/Luisero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-PAT_1=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
+
+
           
 <div align="center">
   <a href="https://github.com/luisero">
