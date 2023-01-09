@@ -43,11 +43,7 @@ You can click the Preview link to take a look at your changes.
  	
   <a href="https://br.linkedin.com/in/luis-henrique-moura-da-silva-12570720a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<div align="center">
-
-  ![Snake animation](https://github.com/luisero/luisero/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ 
 
  
 </div>
