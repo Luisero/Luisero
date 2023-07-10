@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex"> 
  <br>
           <a href="https://br.linkedin.com/in/luis-henrique-moura-da-silva-12570720a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <a href="mailto:contato.luis.moura@gmail.com">
+           
+<!-- <a href="mailto:contato.luis.moura@gmail.com">
            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
-
+-->
  
 </div>
