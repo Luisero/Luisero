@@ -3,7 +3,13 @@
 Luisero/Luisero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p>
+👋 Olá! Eu sou Luis Moura, um entusiasta da programação e desenvolvimento back end com paixão pela criação de soluções inovadoras e eficientes.
 
+🎓 Atualmente, estou cursandoCiência da Computação na Universidade Federal do Ceará (UFC), onde estou aprimorando minhas habilidades e conhecimentos para enfrentar os desafios tecnológicos do futuro.
+
+💻 No meu perfil GitHub, você encontrará uma coleção de projetos que refletem meu compromisso com a excelência técnica e minha dedicação em aprender e evoluir constantemente. De APIs robustas a sistemas escaláveis, estou sempre em busca de novos desafios que me permitam expandir meu conhecimento e contribuir para a comunidade de desenvolvimento.
+</p>
 
           
 
