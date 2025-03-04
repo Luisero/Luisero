@@ -12,7 +12,7 @@
 |--------------------|-------------------------|--------------------------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="30" width="40">  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height="30" width="40"> | <img src="https://img.icons8.com/color/344/django.png" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" width="40"> |
 | <img src="https://pypi-camo.freetls.fastly.net/61176205c57617d9a603918334772386cbe1bad8/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707967616d652d636f6d6d756e6974792f707967616d652d63652f6d61696e2f646f63732f726553542f5f7374617469632f707967616d655f63655f6c6f676f2e737667" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40"> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"> |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" height="30" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"> |  |  |
 
 ---
 
